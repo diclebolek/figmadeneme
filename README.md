@@ -1,1 +1,1 @@
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/tVrUHxcUcfbhIE5xlOj9fC/deneme?node-id=8-31&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/tVrUHxcUcfbhIE5xlOj9fC/deneme?node-id=2-26&p=f&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A1443&embed-host=share" allowfullscreen></iframe>
