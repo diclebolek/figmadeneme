@@ -1,6 +1,6 @@
 <img width="1076" height="691" alt="image" src="https://github.com/user-attachments/assets/ba6c6378-ac49-41fb-a4b4-291a6de75ecc" />
 <img width="1064" height="689" alt="image" src="https://github.com/user-attachments/assets/64f927cd-59e5-42c5-9185-d0bd1d484339" />
-# Ridestore Arayüz Tasarımı ve Uygulama Metodolojisi
+## Ridestore Arayüz Tasarımı ve Uygulama Metodolojisi
 ## 1. Çalışmanın Kapsamı
 
 Bu proje, modern bir e-ticaret platformunun kullanıcı arayüzü (UI) dinamiklerini analiz etmek ve yeniden üretmek amacıyla gerçekleştirilen bir UI Reproduction çalışmasıdır.
